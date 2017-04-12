@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="64761727-c8a5-4662-b96d-df9366cf61ba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.4.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.5.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.6.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.7.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.8.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/requirejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/requirejs/2.1.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/requirejs/2.3.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/awesomeStyle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/awesomeStyle/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/awesomeStyle/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/metroStyle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/metroStyle/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/metroStyle/img/line_conn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/metroStyle/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/metroStyle/img/metro.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/metroStyle/img/metro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/1_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/1_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/diy/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/line_conn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/zTreeStandard.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/img/zTreeStandard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/ztree.3.5.26.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/TestRequirejsIE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-r.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.4.4/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.4.4/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.5.1/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.5.1/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.6.4/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.6.4/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.8.3/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/1.8.3/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/md5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/requirejs/2.3.3/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/vue.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/vue.esm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/vue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/vue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/vue.runtime.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/vue.runtime.esm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/vue.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vue/2.2.6/vue.runtime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/awesomeStyle/awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/awesomeStyle/awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/awesomeStyle/fa.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/metroStyle/metroStyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/css/zTreeStyle/zTreeStyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery-1.4.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.excheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.excheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.exedit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.exedit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.exhide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.exhide.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/1_close.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/1_close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/1_open.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/1_open.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/2.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/3.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/4.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/5.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/6.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/7.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/8.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/9.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/diy/9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/line_conn.gif" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/line_conn.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/loading.gif" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/zTreeStandard.gif" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/zTreeStandard.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TestRequirejsIE/img/zTreeStandard.png" afterPath="$PROJECT_DIR$/test/TestRequirejsIE/img/zTreeStandard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/treeView/2.0/js/MTRTreeView.js" afterPath="$PROJECT_DIR$/platform/treeView/2.0/js/MTRTreeView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/treeView/2.0/js/mtrTV.js" afterPath="$PROJECT_DIR$/platform/treeView/2.0/js/mtrTV.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest-r.htm" afterPath="$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest-r.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest1.htm" afterPath="$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest1.htm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/require.js" afterPath="$PROJECT_DIR$/lib/requirejs/2.1.22/require.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#3729#3736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/TestRequirejsIE/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="47" column="22" lean-forward="false" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/TestRequirejsIE/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeTest1.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest1.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="78" column="35" lean-forward="false" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MTRTreeView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/js/MTRTreeView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="e#379#599#0" expanded="false" />
+                <element signature="e#628#658#0" expanded="false" />
+                <element signature="e#958#1579#0" expanded="false" />
+                <element signature="e#1585#1737#0" expanded="false" />
+                <element signature="e#1777#1835#0" expanded="false" />
+                <element signature="e#1882#2022#0" expanded="false" />
+                <element signature="e#2085#2164#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mtrTV.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/js/mtrTV.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="md5.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/md5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="35" column="196" lean-forward="false" selection-start-line="35" selection-start-column="196" selection-end-line="35" selection-end-column="196" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeTest-r.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest-r.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.ztree.core.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.core.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="347" column="14" lean-forward="false" selection-start-line="347" selection-start-column="14" selection-end-line="347" selection-end-column="14" />
+              <folding>
+                <element signature="e#354#1643#0" expanded="false" />
+                <element signature="e#1698#3796#0" expanded="false" />
+                <element signature="e#3911#4326#0" expanded="false" />
+                <element signature="e#4400#4609#0" expanded="false" />
+                <element signature="e#4687#6356#0" expanded="false" />
+                <element signature="e#6400#6810#0" expanded="false" />
+                <element signature="e#6889#10601#0" expanded="false" />
+                <element signature="e#10735#12208#0" expanded="false" />
+                <element signature="e#27943#31091#0" expanded="false" />
+                <element signature="e#31145#34475#0" expanded="false" />
+                <element signature="e#34529#37435#0" expanded="false" />
+                <element signature="e#34586#34768#0" expanded="false" />
+                <element signature="e#34817#35029#0" expanded="false" />
+                <element signature="e#35070#35151#0" expanded="false" />
+                <element signature="e#35187#35528#0" expanded="false" />
+                <element signature="e#35566#35663#0" expanded="false" />
+                <element signature="e#37490#75510#0" expanded="false" />
+                <element signature="e#37572#39204#0" expanded="false" />
+                <element signature="e#39303#41615#0" expanded="false" />
+                <element signature="e#41673#42401#0" expanded="false" />
+                <element signature="e#42471#46666#0" expanded="false" />
+                <element signature="e#46741#47500#0" expanded="false" />
+                <element signature="e#47553#48145#0" expanded="false" />
+                <element signature="e#48224#49584#0" expanded="false" />
+                <element signature="e#49626#49937#0" expanded="false" />
+                <element signature="e#50031#53288#0" expanded="false" />
+                <element signature="e#53388#53901#0" expanded="false" />
+                <element signature="e#53998#54844#0" expanded="false" />
+                <element signature="e#54899#55292#0" expanded="false" />
+                <element signature="e#55354#55966#0" expanded="false" />
+                <element signature="e#56028#56217#0" expanded="false" />
+                <element signature="e#56284#56335#0" expanded="false" />
+                <element signature="e#56403#56561#0" expanded="false" />
+                <element signature="e#56628#56678#0" expanded="false" />
+                <element signature="e#56746#57752#0" expanded="false" />
+                <element signature="e#57808#58019#0" expanded="false" />
+                <element signature="e#58076#58587#0" expanded="false" />
+                <element signature="e#58644#59256#0" expanded="false" />
+                <element signature="e#59314#60302#0" expanded="false" />
+                <element signature="e#60353#60498#0" expanded="false" />
+                <element signature="e#60544#60609#0" expanded="false" />
+                <element signature="e#60661#60786#0" expanded="false" />
+                <element signature="e#60852#61152#0" expanded="false" />
+                <element signature="e#61208#61317#0" expanded="false" />
+                <element signature="e#61374#62408#0" expanded="false" />
+                <element signature="e#61830#62308#0" expanded="false" />
+                <element signature="e#62453#66271#0" expanded="false" />
+                <element signature="e#62651#66211#0" expanded="false" />
+                <element signature="e#62815#63151#0" expanded="false" />
+                <element signature="e#63221#64756#0" expanded="false" />
+                <element signature="e#63934#64026#0" expanded="false" />
+                <element signature="e#64099#64303#0" expanded="false" />
+                <element signature="e#64376#64580#0" expanded="false" />
+                <element signature="e#66330#66567#0" expanded="false" />
+                <element signature="e#66625#66875#0" expanded="false" />
+                <element signature="e#66926#70219#0" expanded="false" />
+                <element signature="e#70280#70833#0" expanded="false" />
+                <element signature="e#70897#71946#0" expanded="false" />
+                <element signature="e#72006#72363#0" expanded="false" />
+                <element signature="e#72422#72659#0" expanded="false" />
+                <element signature="e#72715#73681#0" expanded="false" />
+                <element signature="e#73733#74369#0" expanded="false" />
+                <element signature="e#74423#74561#0" expanded="false" />
+                <element signature="e#74612#74931#0" expanded="false" />
+                <element signature="e#74982#75500#0" expanded="false" />
+                <element signature="e#75868#76125#0" expanded="false" />
+                <element signature="e#77273#87499#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="AMD JavaScript File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blog-</find>
+      <find>this</find>
+      <find>parent</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mtr-</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tpl-index.html" />
+        <option value="$PROJECT_DIR$/css/default.css" />
+        <option value="$PROJECT_DIR$/js/bb-app.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test/test.js" />
+        <option value="$PROJECT_DIR$/test/TestRequirejsIE/main.js" />
+        <option value="$PROJECT_DIR$/test/TestRequirejsIE/index.html" />
+        <option value="$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest1.htm" />
+        <option value="$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.core.js" />
+        <option value="$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest-r.htm" />
+        <option value="$PROJECT_DIR$/platform/treeView/2.0/js/MTRTreeView.js" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/platform/treeView/2.0/js/mtrTV.js" />
+        <option value="$PROJECT_DIR$/lib/md5.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestRequirejsIE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="requirejs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MTRV6.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="J:/JavaWorkspace/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="J:\JavaWorkspace\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\lib\require\2.1.22" />
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0" />
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\lib\vue\2.0" />
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\lib" />
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\js\bootstrap337dist\respond\1.4.2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\test\TestRequirejsIE" />
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\lib\zTree\3.5.28" />
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\lib\jquery\1.8.3" />
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\lib\jquery\1.7.2" />
+      <recent name="J:\Code\MapleTR_20151103\Web\MTRV6.0\lib\jquery\1.6.4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\chunlin\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="J:\Code\MapleTR_20151103\Web\MTRV6.0" />
+          <option name="myCopyRoot" value="J:\Code\MapleTR_20151103\Web\MTRV6.0" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="J:\Code\MapleTR_20151103\Web\MTRV6.0" />
+          <option name="myCopyRoot" value="J:\Code\MapleTR_20151103\Web\MTRV6.0" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64761727-c8a5-4662-b96d-df9366cf61ba" name="Default" comment="" />
+      <created>1491447019568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491447019568</updated>
+      <workItem from="1491447021764" duration="6217000" />
+      <workItem from="1491463393293" duration="11758000" />
+      <workItem from="1491803003555" duration="10237000" />
+      <workItem from="1491876070446" duration="18838000" />
+      <workItem from="1491965481152" duration="850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47900000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2453125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19020501" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/md5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="196" lean-forward="true" selection-start-line="35" selection-start-column="196" selection-end-line="35" selection-end-column="196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3729#3736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestRequirejsIE/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestRequirejsIE/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest1.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/js/MTRTreeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#379#599#0" expanded="false" />
+            <element signature="e#628#658#0" expanded="false" />
+            <element signature="e#958#1579#0" expanded="false" />
+            <element signature="e#1585#1737#0" expanded="false" />
+            <element signature="e#1777#1835#0" expanded="false" />
+            <element signature="e#1882#2022#0" expanded="false" />
+            <element signature="e#2085#2164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3729#3736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="89" column="37" lean-forward="true" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3729#3736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/user.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap337dist/IE/ie10-viewport-bug-workaround.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap337dist/IE/ie-emulation-modes-warning.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap337dist/IE/ie8-responsive-file-warning.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap337dist/IE/ie10-viewport-bug-workaround.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap337dist/IE/ie10-viewport-bug-workaround.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/user.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/partials/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="85" column="20" lean-forward="true" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/autoCode/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bb-app.js" />
+    <entry file="file://$PROJECT_DIR$/lib/vue/2.0/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.js" />
+    <entry file="file://$PROJECT_DIR$/lib/requirejs/2.3.3/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/requirejs/2.1.22/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5825">
+          <caret line="237" column="37" lean-forward="true" selection-start-line="237" selection-start-column="37" selection-end-line="237" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery/1.12.4/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery/1.4.4/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/zTree_v3-master/jquery.ztree.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-188">
+          <caret line="1643" column="4" lean-forward="false" selection-start-line="1643" selection-start-column="4" selection-end-line="1643" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery/1.4.4/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176807">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery/1.8.3/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="3638" column="0" lean-forward="false" selection-start-line="3638" selection-start-column="0" selection-end-line="3638" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3729#3736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestRequirejsIE/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="47" column="22" lean-forward="false" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestRequirejsIE/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/zTree/3.5.28/js/jquery.ztree.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="347" column="14" lean-forward="false" selection-start-line="347" selection-start-column="14" selection-end-line="347" selection-end-column="14" />
+          <folding>
+            <element signature="e#354#1643#0" expanded="false" />
+            <element signature="e#1698#3796#0" expanded="false" />
+            <element signature="e#3911#4326#0" expanded="false" />
+            <element signature="e#4400#4609#0" expanded="false" />
+            <element signature="e#4687#6356#0" expanded="false" />
+            <element signature="e#6400#6810#0" expanded="false" />
+            <element signature="e#6889#10601#0" expanded="false" />
+            <element signature="e#10735#12208#0" expanded="false" />
+            <element signature="e#27943#31091#0" expanded="false" />
+            <element signature="e#31145#34475#0" expanded="false" />
+            <element signature="e#34529#37435#0" expanded="false" />
+            <element signature="e#34586#34768#0" expanded="false" />
+            <element signature="e#34817#35029#0" expanded="false" />
+            <element signature="e#35070#35151#0" expanded="false" />
+            <element signature="e#35187#35528#0" expanded="false" />
+            <element signature="e#35566#35663#0" expanded="false" />
+            <element signature="e#37490#75510#0" expanded="false" />
+            <element signature="e#37572#39204#0" expanded="false" />
+            <element signature="e#39303#41615#0" expanded="false" />
+            <element signature="e#41673#42401#0" expanded="false" />
+            <element signature="e#42471#46666#0" expanded="false" />
+            <element signature="e#46741#47500#0" expanded="false" />
+            <element signature="e#47553#48145#0" expanded="false" />
+            <element signature="e#48224#49584#0" expanded="false" />
+            <element signature="e#49626#49937#0" expanded="false" />
+            <element signature="e#50031#53288#0" expanded="false" />
+            <element signature="e#53388#53901#0" expanded="false" />
+            <element signature="e#53998#54844#0" expanded="false" />
+            <element signature="e#54899#55292#0" expanded="false" />
+            <element signature="e#55354#55966#0" expanded="false" />
+            <element signature="e#56028#56217#0" expanded="false" />
+            <element signature="e#56284#56335#0" expanded="false" />
+            <element signature="e#56403#56561#0" expanded="false" />
+            <element signature="e#56628#56678#0" expanded="false" />
+            <element signature="e#56746#57752#0" expanded="false" />
+            <element signature="e#57808#58019#0" expanded="false" />
+            <element signature="e#58076#58587#0" expanded="false" />
+            <element signature="e#58644#59256#0" expanded="false" />
+            <element signature="e#59314#60302#0" expanded="false" />
+            <element signature="e#60353#60498#0" expanded="false" />
+            <element signature="e#60544#60609#0" expanded="false" />
+            <element signature="e#60661#60786#0" expanded="false" />
+            <element signature="e#60852#61152#0" expanded="false" />
+            <element signature="e#61208#61317#0" expanded="false" />
+            <element signature="e#61374#62408#0" expanded="false" />
+            <element signature="e#61830#62308#0" expanded="false" />
+            <element signature="e#62453#66271#0" expanded="false" />
+            <element signature="e#62651#66211#0" expanded="false" />
+            <element signature="e#62815#63151#0" expanded="false" />
+            <element signature="e#63221#64756#0" expanded="false" />
+            <element signature="e#63934#64026#0" expanded="false" />
+            <element signature="e#64099#64303#0" expanded="false" />
+            <element signature="e#64376#64580#0" expanded="false" />
+            <element signature="e#66330#66567#0" expanded="false" />
+            <element signature="e#66625#66875#0" expanded="false" />
+            <element signature="e#66926#70219#0" expanded="false" />
+            <element signature="e#70280#70833#0" expanded="false" />
+            <element signature="e#70897#71946#0" expanded="false" />
+            <element signature="e#72006#72363#0" expanded="false" />
+            <element signature="e#72422#72659#0" expanded="false" />
+            <element signature="e#72715#73681#0" expanded="false" />
+            <element signature="e#73733#74369#0" expanded="false" />
+            <element signature="e#74423#74561#0" expanded="false" />
+            <element signature="e#74612#74931#0" expanded="false" />
+            <element signature="e#74982#75500#0" expanded="false" />
+            <element signature="e#75868#76125#0" expanded="false" />
+            <element signature="e#77273#87499#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest1.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="78" column="35" lean-forward="false" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/test/TreeTest-r.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/js/MTRTreeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#379#599#0" expanded="false" />
+            <element signature="e#628#658#0" expanded="false" />
+            <element signature="e#958#1579#0" expanded="false" />
+            <element signature="e#1585#1737#0" expanded="false" />
+            <element signature="e#1777#1835#0" expanded="false" />
+            <element signature="e#1882#2022#0" expanded="false" />
+            <element signature="e#2085#2164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/treeView/2.0/js/mtrTV.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/md5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="35" column="196" lean-forward="false" selection-start-line="35" selection-start-column="196" selection-end-line="35" selection-end-column="196" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

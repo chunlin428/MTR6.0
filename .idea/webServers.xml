@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9cb9cd9-5722-4125-970c-e2ee9afd6dea" name="MTRV6.0" url="http://localhost:8080/MTRV6">
+        <fileTransfer port="0" mountedRoot="J:\JavaWorkspace\apache-tomcat-7.0.61\webapps\MTRV6" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

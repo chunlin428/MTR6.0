@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- #include file="/Include/RfSoft.Js.inc" -->
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <input type="button" value="获取数据" onclick="getData()" />
+
+</body>
+</html>
+//http://192.168.0.102:8080/RfSoft.MapleTR.Core.Components/MapleTR.Core.Components.MTRTree.ZTreeHelper.mtr?action=GetZTreeViewData
+<script type="text/javascript">
+    var getData = function () {
+        var url = "/RfSoft.MapleTR.Core.Components/MapleTR.Core.Components.MTRTree.ZTreeHelper.mtr?action=GetZTreeViewData";
+        var data = {
+            "server": {
+                "code": "User_Dept"
+            },
+            "setings": {
+            },
+            "data": []
+        }
+
+        $.ajax({
+            type: "POST",
+            url: url,
+            data: "data=" + JSON.stringify(data),
+            dataType: "JSON",
+            success: function (msg) {
+                alert(msg);
+            }
+        });
+
+    }
+</script>

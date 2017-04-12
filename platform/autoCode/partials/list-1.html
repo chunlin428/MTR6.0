@@ -1,0 +1,31 @@
+<div class="panel-body">
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>编号</th>
+            <th>表名</th>
+            <th>格式</th>
+            <th>序数位数</th>
+            <th>序数值</th>
+            <th>时间</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="item in codeItems">
+            <td>{{item.ID}}</td>
+            <td>{{item.Code}}</td>
+            <td>{{item.TableName}}</td>
+            <td>{{item.Format}}</td>
+            <td>{{item.Digits}}</td>
+            <td>{{item.LastNumber}}</td>
+            <td>{{item.LastTime}}</td>
+            <td>
+                <a href="#!/auto/detail/{{item.ID}}">编辑</a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <p><a class="btn btn-primary" href="#" role="button">查看详细&raquo;</a></p>
+</div>
